@@ -1,4 +1,4 @@
-# Bhagavath Sai – Animated Portfolio
+# Bhagavath Sai – Portfolio
 
 ## Quick Start
 
